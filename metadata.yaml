@@ -1,0 +1,7 @@
+homepage: "https://www.cardinalpath.com/"
+documentation: "https://github.com/CardinalPath/gtm-template-ga-property-id-variable/blob/master/README.md"
+versions:
+# Latest version
+ - sha: 0cd403caeb880b24d878fab0e84513714a78eb81
+   changeNotes: 5 | removal of debug and environment fields
+# Olderversion
