@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Enable Debug View",
+  "categories": ["ANALYTICS"],
   "description": "",
   "containerContexts": [
     "WEB"
