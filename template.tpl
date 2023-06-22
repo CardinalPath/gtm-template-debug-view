@@ -24,7 +24,6 @@ ___INFO___
   }
 }
 
-
 ___TEMPLATE_PARAMETERS___
 
 [
@@ -83,7 +82,6 @@ if (queryPermission('get_url', 'query', data.query_param)) {
     return true;
   }
 }
-
 
 ___WEB_PERMISSIONS___
 
@@ -248,5 +246,3 @@ scenarios: []
 ___NOTES___
 
 Created on 3/9/2023, 4:04:03 PM
-
-
