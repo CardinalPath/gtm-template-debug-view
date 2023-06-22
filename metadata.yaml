@@ -2,6 +2,6 @@ homepage: "https://www.cardinalpath.com/"
 documentation: "https://github.com/CardinalPath/gtm-template-debug-view/blob/master/README.md"
 versions:
 # Latest version
- - sha: 647eaf37714233dc799a50e4c899f30d41ad9afe
+ - sha: 89264ef927cbd5a1ae7294dbdc92aef115ab299c
    changeNotes: 5 | removal of debug and environment fields
 # Olderversion
